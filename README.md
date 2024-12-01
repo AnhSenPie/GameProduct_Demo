@@ -1,4 +1,5 @@
+Switch to brabch MASTER
 #Source Code
-Source Code not public now
+\nSource Code not public now
 #Exe
 Clone all this project and run the .exe file
